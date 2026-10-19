@@ -1,0 +1,25 @@
+# SKATE-IT! - USER STORIES
+
+- L’**utente** **non registrato** effettua la **registrazione** per poter aver accesso a funzionalità esclusive.
+- **Qualunque utente**, anche non registrato, può usare la **funzione ricerca** per trovare luoghi di interesse.
+- Il **moderatore** accetta o nega l’inserimento di un luogo interesse per garantire segnalazioni di qualità (qualitativa dal punto di vista della correttezza)
+- L’**utente registrato** può **personalizzare il proprio profilo** e le proprie informazioni per mostrarsi come desidera.
+- L’**utente registrato** può **segnalare luoghi di interesse** non ancora presenti sul sito, per arricchire il parco e contribuire alla crescita del progetto.
+- L’utente registrato può recensire un luogo, per aiutare gli altri utenti a scegliere il luogo perfetto
+- l’utente registrato può lanciare una sfida ad un altro utente per confrontarsi con lui
+- l’utente registrato può avviare una chat con altri utenti o con la propria crew per parlare e per organizzarsi
+- l’utente registrato può aggiungere utenti agli amici per espandere la propria cerchia
+- una crew (gruppo di utenti) può lanciare una sfida ad un’altra crew per confrontarsi
+- l’utente registrato può segnalare l’errato inserimento di un luogo di interesse per aiutare a mantenere un sito di qualità
+- l’admin può bannare utenti scorretti, per mantenere una community sana
+- l’utente registrato può segnalare il comportamento scorretto di altri utenti, per aiutare a mantenere una community sana
+- l’utente registrato può segnalare un bug, per aiutare gli sviluppatori a migliorare l’esperienza
+- un negozio/brand  può sponsorizzare la propria attività per aumentare la propria visibilità
+- un negozio/brand può sponsorizzare un articolo in vendita per aumentare la visibilità
+- l’utente registrato può avviare una chat con negozi e brand, per chiedere informazioni sull’attività e sugli articoli
+- l’utente qualunque può registrarsi per avere accesso a funzionalità esclusive
+- l’utente registrato può aggiornare la password al fine di garantire la sicurezza del proprio account
+- l’utente registrato può richiedere il reset della password al fine di recuperare le credenziali dimenticate
+- l’utente registrato può acquistare il pacchetto “no-ads” per rimuovere banner pubblicitari e pubblicità full-screen 
+- l’utente registrato può donare un importo a piacere per supportare lo sviluppo di skate-it
+- l’utente registrato può iscriversi alla newsletter per rimanere aggiornato su novità, nuove funzionalità e nuovi spot aggiunti.
